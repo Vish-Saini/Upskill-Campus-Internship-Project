@@ -84,13 +84,11 @@ Apply Deep Learning models (e.g., LSTMs) for time-series forecasting.
 
 👨‍💻 Contributors
 
-Intern: [Your Name]
+Intern: Vishal
 
 Organization: Upskill Campus
 
 Domain: Data Science / Machine Learning
-
-Mentor: [Mentor Name, if applicable]
 
 📌 Acknowledgements
 
